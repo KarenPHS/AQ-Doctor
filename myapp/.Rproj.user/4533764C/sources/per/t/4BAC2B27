@@ -1,0 +1,24 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1543594773044.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2263171414",
+    "id" : "4BAC2B27",
+    "lastKnownWriteTime" : 1543690332,
+    "last_content_update" : 1543690332536,
+    "path" : "E:/D4SG/Demo/dashboard/myapp/app.R",
+    "project_path" : "app.R",
+    "properties" : {
+        "cursorPosition" : "8,19",
+        "docOutlineSize" : "28",
+        "docOutlineVisible" : "1",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

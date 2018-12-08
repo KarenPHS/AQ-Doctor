@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1543664061441.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "511811732",
+    "id" : "86AB489B",
+    "lastKnownWriteTime" : 1543664089,
+    "last_content_update" : 1543664089967,
+    "path" : "E:/D4SG/Demo/dashboard/myapp/global.R",
+    "project_path" : "global.R",
+    "properties" : {
+        "cursorPosition" : "29,1",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
